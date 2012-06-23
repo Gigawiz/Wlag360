@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wlag360 Stable", "Wlag360 Stable\Wlag360 Stable.csproj", "{2443EF91-9CEB-429C-96A3-BDF7A0B355A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wlag360 Installer", "Wlag360 Installer\Wlag360 Installer.csproj", "{61D324F4-A34E-426F-A7F6-A687A85ECB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2443EF91-9CEB-429C-96A3-BDF7A0B355A2}.Debug|x86.ActiveCfg = Debug|x86
+		{2443EF91-9CEB-429C-96A3-BDF7A0B355A2}.Debug|x86.Build.0 = Debug|x86
+		{2443EF91-9CEB-429C-96A3-BDF7A0B355A2}.Release|x86.ActiveCfg = Release|x86
+		{2443EF91-9CEB-429C-96A3-BDF7A0B355A2}.Release|x86.Build.0 = Release|x86
+		{61D324F4-A34E-426F-A7F6-A687A85ECB04}.Debug|x86.ActiveCfg = Debug|x86
+		{61D324F4-A34E-426F-A7F6-A687A85ECB04}.Debug|x86.Build.0 = Debug|x86
+		{61D324F4-A34E-426F-A7F6-A687A85ECB04}.Release|x86.ActiveCfg = Release|x86
+		{61D324F4-A34E-426F-A7F6-A687A85ECB04}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
